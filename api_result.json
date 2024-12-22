@@ -1,0 +1,724 @@
+{
+    "results": [
+      {
+        "channel_name": "1",
+        "now": {
+          "broadcast_title": "DARIA KOLOSOVA w/ Social Vlad",
+          "start_timestamp": "2024-11-13T01:00:00Z",
+          "end_timestamp": "2024-11-13T02:00:00Z",
+          "embeds": {
+            "details": {
+              "status": "pending",
+              "updated": "2024-11-12T15:46:31+00:00",
+              "name": "DARIA KOLOSOVA w/ Social Vlad",
+              "description": "Daria Kolosova’s passion for the depths of electronic music have transformed into her striking versatility and proficiency as an artist. Welcome to her world.",
+              "description_html": "<h3>Daria Kolosova’s passion for the depths of electronic music have transformed into her striking versatility and proficiency as an artist. Welcome to her world.</h3>",
+              "external_links": [
+                "https://www.instagram.com/dar.key/?hl=en"
+              ],
+              "moods": [],
+              "genres": [],
+              "location_short": "BLN",
+              "location_long": "Berlin",
+              "intensity": "50",
+              "media": {
+                "background_large": "https://media2.ntslive.co.uk/resize/1600x1600/0ab20d37-a879-4bd4-97b7-a3aa2c7445f0_1731369600.jpeg",
+                "background_medium_large": "https://media2.ntslive.co.uk/resize/800x800/0ab20d37-a879-4bd4-97b7-a3aa2c7445f0_1731369600.jpeg",
+                "background_medium": "https://media.ntslive.co.uk/resize/400x400/0ab20d37-a879-4bd4-97b7-a3aa2c7445f0_1731369600.jpeg",
+                "background_small": "https://media3.ntslive.co.uk/resize/200x200/0ab20d37-a879-4bd4-97b7-a3aa2c7445f0_1731369600.jpeg",
+                "background_thumb": "https://media3.ntslive.co.uk/resize/100x100/0ab20d37-a879-4bd4-97b7-a3aa2c7445f0_1731369600.jpeg",
+                "picture_large": "https://media2.ntslive.co.uk/resize/1600x1600/0ab20d37-a879-4bd4-97b7-a3aa2c7445f0_1731369600.jpeg",
+                "picture_medium_large": "https://media2.ntslive.co.uk/resize/800x800/0ab20d37-a879-4bd4-97b7-a3aa2c7445f0_1731369600.jpeg",
+                "picture_medium": "https://media.ntslive.co.uk/resize/400x400/0ab20d37-a879-4bd4-97b7-a3aa2c7445f0_1731369600.jpeg",
+                "picture_small": "https://media3.ntslive.co.uk/resize/200x200/0ab20d37-a879-4bd4-97b7-a3aa2c7445f0_1731369600.jpeg",
+                "picture_thumb": "https://media3.ntslive.co.uk/resize/100x100/0ab20d37-a879-4bd4-97b7-a3aa2c7445f0_1731369600.jpeg"
+              },
+              "episode_alias": "daria-kolosova-13th-november-2024",
+              "show_alias": "daria-kolosova",
+              "broadcast": "2024-11-13T01:00:00+00:00",
+              "mixcloud": null,
+              "audio_sources": [],
+              "brand": {},
+              "embeds": {},
+              "links": [
+                {
+                  "rel": "self",
+                  "href": "https://www.nts.live/api/v2/shows/daria-kolosova/episodes/daria-kolosova-13th-november-2024",
+                  "type": "application/vnd.episode+json;charset=utf-8"
+                },
+                {
+                  "rel": "show",
+                  "href": "https://www.nts.live/api/v2/shows/daria-kolosova",
+                  "type": "application/vnd.show+json;charset=utf-8"
+                },
+                {
+                  "rel": "tracklist",
+                  "href": "https://www.nts.live/api/v2/shows/daria-kolosova/episodes/daria-kolosova-13th-november-2024/tracklist",
+                  "type": "application/vnd.track-list+json;charset=utf-8"
+                }
+              ]
+            }
+          },
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/daria-kolosova/episodes/daria-kolosova-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next": {
+          "broadcast_title": "Honey Dijon (R)",
+          "start_timestamp": "2024-11-13T02:00:00Z",
+          "end_timestamp": "2024-11-13T03:00:00Z",
+          "embeds": {
+            "details": {
+              "status": "published",
+              "updated": "2021-06-21T16:44:56+00:00",
+              "name": "Honey Dijon",
+              "description": "An all day takeover raising funds for Underground Music Academy, educating Detroit's next musical generation. Hosted by Waajeed. \nDONATE NOW: ioby.org/UMA",
+              "description_html": "<h3>An all day takeover raising funds for Underground Music Academy, educating Detroit's next musical generation. Hosted by Waajeed. </h3>\n<p>DONATE NOW: <a href=\"https://ioby.org/project/underground-music-academy-uma\" target=\"_blank\">ioby.org/UMA</a></p>",
+              "external_links": [],
+              "moods": [],
+              "genres": [
+                {
+                  "id": "genres-housetechno-house",
+                  "value": "House"
+                }
+              ],
+              "location_short": "DET",
+              "location_long": "Detroit",
+              "intensity": null,
+              "media": {
+                "background_large": "https://media2.ntslive.co.uk/resize/1600x1600/bd12b3f5-a89a-452f-955d-cb2692c705ec_1623974400.jpeg",
+                "background_medium_large": "https://media2.ntslive.co.uk/resize/800x800/bd12b3f5-a89a-452f-955d-cb2692c705ec_1623974400.jpeg",
+                "background_medium": "https://media.ntslive.co.uk/resize/400x400/bd12b3f5-a89a-452f-955d-cb2692c705ec_1623974400.jpeg",
+                "background_small": "https://media3.ntslive.co.uk/resize/200x200/bd12b3f5-a89a-452f-955d-cb2692c705ec_1623974400.jpeg",
+                "background_thumb": "https://media3.ntslive.co.uk/resize/100x100/bd12b3f5-a89a-452f-955d-cb2692c705ec_1623974400.jpeg",
+                "picture_large": "https://media2.ntslive.co.uk/resize/1600x1600/bd12b3f5-a89a-452f-955d-cb2692c705ec_1623974400.jpeg",
+                "picture_medium_large": "https://media2.ntslive.co.uk/resize/800x800/bd12b3f5-a89a-452f-955d-cb2692c705ec_1623974400.jpeg",
+                "picture_medium": "https://media.ntslive.co.uk/resize/400x400/bd12b3f5-a89a-452f-955d-cb2692c705ec_1623974400.jpeg",
+                "picture_small": "https://media3.ntslive.co.uk/resize/200x200/bd12b3f5-a89a-452f-955d-cb2692c705ec_1623974400.jpeg",
+                "picture_thumb": "https://media3.ntslive.co.uk/resize/100x100/bd12b3f5-a89a-452f-955d-cb2692c705ec_1623974400.jpeg"
+              },
+              "episode_alias": "honey-dijon-19th-june-2021",
+              "show_alias": "underground-music-academy",
+              "broadcast": "2021-06-19T14:00:00+00:00",
+              "mixcloud": "https://www.mixcloud.com/NTSRadio/honey-dijon-uma-fundraiser-takeover-19th-june-2021/",
+              "audio_sources": [
+                {
+                  "url": "https://www.mixcloud.com/NTSRadio/honey-dijon-uma-fundraiser-takeover-19th-june-2021/",
+                  "source": "mixcloud"
+                }
+              ],
+              "brand": {},
+              "embeds": {},
+              "links": [
+                {
+                  "rel": "self",
+                  "href": "https://www.nts.live/api/v2/shows/underground-music-academy/episodes/honey-dijon-19th-june-2021",
+                  "type": "application/vnd.episode+json;charset=utf-8"
+                },
+                {
+                  "rel": "show",
+                  "href": "https://www.nts.live/api/v2/shows/underground-music-academy",
+                  "type": "application/vnd.show+json;charset=utf-8"
+                },
+                {
+                  "rel": "tracklist",
+                  "href": "https://www.nts.live/api/v2/shows/underground-music-academy/episodes/honey-dijon-19th-june-2021/tracklist",
+                  "type": "application/vnd.track-list+json;charset=utf-8"
+                }
+              ]
+            }
+          },
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/underground-music-academy/episodes/honey-dijon-19th-june-2021",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next2": {
+          "broadcast_title": "WE ARE… W/ PAUL CAMO (R)",
+          "start_timestamp": "2024-11-13T03:00:00Z",
+          "end_timestamp": "2024-11-13T05:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/we-are/episodes/we-are-8th-june-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next3": {
+          "broadcast_title": "SOUNDS OF THE DAWN (R)",
+          "start_timestamp": "2024-11-13T05:00:00Z",
+          "end_timestamp": "2024-11-13T07:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-30th-december-2023",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next4": {
+          "broadcast_title": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
+          "start_timestamp": "2024-11-13T07:00:00Z",
+          "end_timestamp": "2024-11-13T09:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/early-bird-show-spirit-blue/episodes/early-bird-show-spirit-blue-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next5": {
+          "broadcast_title": "THE NTS BREAKFAST SHOW W/ FLO &amp; Josh Da Costa",
+          "start_timestamp": "2024-11-13T09:00:00Z",
+          "end_timestamp": "2024-11-13T11:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next6": {
+          "broadcast_title": "SOUP TO NUTS W/ SHY ONE",
+          "start_timestamp": "2024-11-13T11:00:00Z",
+          "end_timestamp": "2024-11-13T13:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next7": {
+          "broadcast_title": "BRADLEY ZERO PRESENTS: RHYTHM SECTION W/ ANAIIS",
+          "start_timestamp": "2024-11-13T13:00:00Z",
+          "end_timestamp": "2024-11-13T15:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/rhythmsection/episodes/rhythmsection-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next8": {
+          "broadcast_title": "CC:DISCO",
+          "start_timestamp": "2024-11-13T15:00:00Z",
+          "end_timestamp": "2024-11-13T17:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/ccdisco/episodes/ccdisco-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next9": {
+          "broadcast_title": "Tash LC w/ Akanbi",
+          "start_timestamp": "2024-11-13T17:00:00Z",
+          "end_timestamp": "2024-11-13T18:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/tash-lc/episodes/tash-lc-akanbi-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next10": {
+          "broadcast_title": "TOUCHING BASS W/ ERROL &amp; ALEX RITA",
+          "start_timestamp": "2024-11-13T18:00:00Z",
+          "end_timestamp": "2024-11-13T20:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/touching-bass/episodes/touching-bass-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next11": {
+          "broadcast_title": "GIULIA TESS",
+          "start_timestamp": "2024-11-13T20:00:00Z",
+          "end_timestamp": "2024-11-13T21:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/giulia-tess/episodes/giulia-tess-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next12": {
+          "broadcast_title": "OK Williams",
+          "start_timestamp": "2024-11-13T21:00:00Z",
+          "end_timestamp": "2024-11-13T22:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/ok-williams/episodes/ok-williams-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next13": {
+          "broadcast_title": "LOW INCOME $QUAD",
+          "start_timestamp": "2024-11-13T23:00:00Z",
+          "end_timestamp": "2024-11-14T00:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/low-income-squad/episodes/low-income-squad-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next14": {
+          "broadcast_title": "TWO WAY DREAMING",
+          "start_timestamp": "2024-11-14T02:00:00Z",
+          "end_timestamp": "2024-11-14T03:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/two-way-dreaming/episodes/two-way-dreaming-14th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next15": {
+          "broadcast_title": "RẮN CẠP ĐUÔI",
+          "start_timestamp": "2024-11-14T03:00:00Z",
+          "end_timestamp": "2024-11-14T04:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/ran-cap-duoi/episodes/ran-cap-duoi-14th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next16": {
+          "broadcast_title": "Women of Video Game Music: Capcom Sound Team",
+          "start_timestamp": "2024-11-14T04:00:00Z",
+          "end_timestamp": "2024-11-14T05:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/women-of-video-game-music/episodes/women-of-video-game-music-capcom-sound-team-8th-march-2023",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next17": {
+          "broadcast_title": "Claire Milbrath: Soundtrack Special (R)",
+          "start_timestamp": "2024-11-14T05:00:00Z",
+          "end_timestamp": "2024-11-14T06:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/claire-milbrath/episodes/claire-milbrath-20th-september-2023",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        }
+      },
+      {
+        "channel_name": "2",
+        "now": {
+          "broadcast_title": "Freedom To Spend w/ Jed Bindeman",
+          "start_timestamp": "2024-11-13T01:00:00Z",
+          "end_timestamp": "2024-11-13T02:00:00Z",
+          "embeds": {
+            "details": {
+              "status": "pending",
+              "updated": "2024-11-12T18:44:00+00:00",
+              "name": "Freedom To Spend w/ Jed Bindeman",
+              "description": "Freedom To Spend examines fully realized yet under recognized sonic statements from other eras when accessibility to technology did not always equate to accessible music… Less is more, more or less. Spend some mind, free your time.",
+              "description_html": "<h3>Freedom To Spend examines fully realized yet under recognized sonic statements from other eras when accessibility to technology did not always equate to accessible music… Less is more, more or less. Spend some mind, free your time.</h3>",
+              "external_links": [
+                "http://www.freedomtospend.org/"
+              ],
+              "moods": [],
+              "genres": [
+                {
+                  "id": "genres-avantgarde-experimental",
+                  "value": "Experimental"
+                }
+              ],
+              "location_short": "LA",
+              "location_long": "Los Angeles",
+              "intensity": null,
+              "media": {
+                "background_large": "https://media2.ntslive.co.uk/resize/1600x1600/47627e91-6b60-46f1-836d-50eee4d8a390_1731369600.png",
+                "background_medium_large": "https://media2.ntslive.co.uk/resize/800x800/47627e91-6b60-46f1-836d-50eee4d8a390_1731369600.png",
+                "background_medium": "https://media.ntslive.co.uk/resize/400x400/47627e91-6b60-46f1-836d-50eee4d8a390_1731369600.png",
+                "background_small": "https://media3.ntslive.co.uk/resize/200x200/47627e91-6b60-46f1-836d-50eee4d8a390_1731369600.png",
+                "background_thumb": "https://media3.ntslive.co.uk/resize/100x100/47627e91-6b60-46f1-836d-50eee4d8a390_1731369600.png",
+                "picture_large": "https://media2.ntslive.co.uk/resize/1600x1600/47627e91-6b60-46f1-836d-50eee4d8a390_1731369600.png",
+                "picture_medium_large": "https://media2.ntslive.co.uk/resize/800x800/47627e91-6b60-46f1-836d-50eee4d8a390_1731369600.png",
+                "picture_medium": "https://media.ntslive.co.uk/resize/400x400/47627e91-6b60-46f1-836d-50eee4d8a390_1731369600.png",
+                "picture_small": "https://media3.ntslive.co.uk/resize/200x200/47627e91-6b60-46f1-836d-50eee4d8a390_1731369600.png",
+                "picture_thumb": "https://media3.ntslive.co.uk/resize/100x100/47627e91-6b60-46f1-836d-50eee4d8a390_1731369600.png"
+              },
+              "episode_alias": "freedom-to-spend-13th-november-2024",
+              "show_alias": "freedom-to-spend",
+              "broadcast": "2024-11-13T01:00:00+00:00",
+              "mixcloud": null,
+              "audio_sources": [],
+              "brand": {},
+              "embeds": {},
+              "links": [
+                {
+                  "rel": "self",
+                  "href": "https://www.nts.live/api/v2/shows/freedom-to-spend/episodes/freedom-to-spend-13th-november-2024",
+                  "type": "application/vnd.episode+json;charset=utf-8"
+                },
+                {
+                  "rel": "show",
+                  "href": "https://www.nts.live/api/v2/shows/freedom-to-spend",
+                  "type": "application/vnd.show+json;charset=utf-8"
+                },
+                {
+                  "rel": "tracklist",
+                  "href": "https://www.nts.live/api/v2/shows/freedom-to-spend/episodes/freedom-to-spend-13th-november-2024/tracklist",
+                  "type": "application/vnd.track-list+json;charset=utf-8"
+                }
+              ]
+            }
+          },
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/freedom-to-spend/episodes/freedom-to-spend-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next": {
+          "broadcast_title": "Pteropods w/ Kelsey Lu (R)",
+          "start_timestamp": "2024-11-13T02:00:00Z",
+          "end_timestamp": "2024-11-13T03:00:00Z",
+          "embeds": {
+            "details": {
+              "status": "published",
+              "updated": "2019-03-21T19:33:23+00:00",
+              "name": "Pteropods w/ Kelsey Lu ",
+              "description": "North Carolina-born experimental cellist and songwriter brings her selections to the NTS.\nDive into my easily distracted mind. My cello is stalking me.",
+              "description_html": "<h3>North Carolina-born experimental cellist and songwriter brings her selections to the NTS.</h3>\n<p>Dive into my easily distracted mind. My cello is stalking me.</p>",
+              "external_links": [
+                "https://www.instagram.com/iamkelseylu/"
+              ],
+              "moods": [],
+              "genres": [
+                {
+                  "id": "genres-avantgarde-experimental",
+                  "value": "Experimental"
+                },
+                {
+                  "id": "genres-hiphoprandb-rnb",
+                  "value": "RNB"
+                },
+                {
+                  "id": "genres-classicalopera-classical",
+                  "value": "Classical"
+                }
+              ],
+              "location_short": "LDN",
+              "location_long": "London",
+              "intensity": "50",
+              "media": {
+                "background_large": "https://media2.ntslive.co.uk/resize/1600x1600/e2fea419-95b8-439e-9a5d-f81664c85560_1553126400.png",
+                "background_medium_large": "https://media2.ntslive.co.uk/resize/800x800/e2fea419-95b8-439e-9a5d-f81664c85560_1553126400.png",
+                "background_medium": "https://media.ntslive.co.uk/resize/400x400/e2fea419-95b8-439e-9a5d-f81664c85560_1553126400.png",
+                "background_small": "https://media3.ntslive.co.uk/resize/200x200/e2fea419-95b8-439e-9a5d-f81664c85560_1553126400.png",
+                "background_thumb": "https://media3.ntslive.co.uk/resize/100x100/e2fea419-95b8-439e-9a5d-f81664c85560_1553126400.png",
+                "picture_large": "https://media2.ntslive.co.uk/resize/1600x1600/e2fea419-95b8-439e-9a5d-f81664c85560_1553126400.png",
+                "picture_medium_large": "https://media2.ntslive.co.uk/resize/800x800/e2fea419-95b8-439e-9a5d-f81664c85560_1553126400.png",
+                "picture_medium": "https://media.ntslive.co.uk/resize/400x400/e2fea419-95b8-439e-9a5d-f81664c85560_1553126400.png",
+                "picture_small": "https://media3.ntslive.co.uk/resize/200x200/e2fea419-95b8-439e-9a5d-f81664c85560_1553126400.png",
+                "picture_thumb": "https://media3.ntslive.co.uk/resize/100x100/e2fea419-95b8-439e-9a5d-f81664c85560_1553126400.png"
+              },
+              "episode_alias": "pteropods-19th-march-2019",
+              "show_alias": "kelsey-lu",
+              "broadcast": "2019-03-19T20:00:00+00:00",
+              "mixcloud": "https://www.mixcloud.com/NTSRadio/pteropods-w-kelsey-lu-19th-march-2019/",
+              "audio_sources": [
+                {
+                  "url": "https://www.mixcloud.com/NTSRadio/pteropods-w-kelsey-lu-19th-march-2019/",
+                  "source": "mixcloud"
+                }
+              ],
+              "brand": {},
+              "embeds": {},
+              "links": [
+                {
+                  "rel": "self",
+                  "href": "https://www.nts.live/api/v2/shows/kelsey-lu/episodes/pteropods-19th-march-2019",
+                  "type": "application/vnd.episode+json;charset=utf-8"
+                },
+                {
+                  "rel": "show",
+                  "href": "https://www.nts.live/api/v2/shows/kelsey-lu",
+                  "type": "application/vnd.show+json;charset=utf-8"
+                },
+                {
+                  "rel": "tracklist",
+                  "href": "https://www.nts.live/api/v2/shows/kelsey-lu/episodes/pteropods-19th-march-2019/tracklist",
+                  "type": "application/vnd.track-list+json;charset=utf-8"
+                }
+              ]
+            }
+          },
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/kelsey-lu/episodes/pteropods-19th-march-2019",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next2": {
+          "broadcast_title": "Blackest Ever Black (R)",
+          "start_timestamp": "2024-11-13T03:00:00Z",
+          "end_timestamp": "2024-11-13T05:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/blackest-ever-black/episodes/blackest-ever-black-31st-january-2017",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next3": {
+          "broadcast_title": "WORD OF COMMAND",
+          "start_timestamp": "2024-11-13T05:00:00Z",
+          "end_timestamp": "2024-11-13T06:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/word-of-command/episodes/word-of-command-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next4": {
+          "broadcast_title": "TRiNH: Roberta Flack Special (R)",
+          "start_timestamp": "2024-11-13T06:00:00Z",
+          "end_timestamp": "2024-11-13T07:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/trinh/episodes/trinh-11th-may-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next5": {
+          "broadcast_title": "INSOLAR W/ CAMI LAYÉ OKÚN (R)",
+          "start_timestamp": "2024-11-13T07:00:00Z",
+          "end_timestamp": "2024-11-13T08:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/cami-laye-okun/episodes/cami-laye-okun-12th-september-2023",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next6": {
+          "broadcast_title": "Forager Records (R)",
+          "start_timestamp": "2024-11-13T08:00:00Z",
+          "end_timestamp": "2024-11-13T09:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/forager-records/episodes/forager-records-18th-august-2022",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next7": {
+          "broadcast_title": "A Colourful Storm - Sleeparchive (R)",
+          "start_timestamp": "2024-11-13T09:00:00Z",
+          "end_timestamp": "2024-11-13T10:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/a-colourful-storm/episodes/a-colourful-storm-15th-july-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next8": {
+          "broadcast_title": "JIM O&#039;ROURKE (R)",
+          "start_timestamp": "2024-11-13T10:00:00Z",
+          "end_timestamp": "2024-11-13T11:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/jim-o-rourke/episodes/jim-o-rourke-21st-march-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next9": {
+          "broadcast_title": "ALINDITHAR TAPES W/ EYE FLOSS",
+          "start_timestamp": "2024-11-13T11:00:00Z",
+          "end_timestamp": "2024-11-13T12:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/alindithar-tapes/episodes/alindithar-tapes-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next10": {
+          "broadcast_title": "HTRK",
+          "start_timestamp": "2024-11-13T12:00:00Z",
+          "end_timestamp": "2024-11-13T13:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/htrk/episodes/htrk-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next11": {
+          "broadcast_title": "THE COSMIC PRINCIPLE W/ NICK MITCHELL",
+          "start_timestamp": "2024-11-13T13:00:00Z",
+          "end_timestamp": "2024-11-13T15:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/golden-lab/episodes/golden-lab-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next12": {
+          "broadcast_title": "NO WEAPON IS ABSOLUTE w/ Cosmo Vitelli",
+          "start_timestamp": "2024-11-13T15:00:00Z",
+          "end_timestamp": "2024-11-13T16:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/no-weapon-is-absolute/episodes/no-weapon-is-absolute-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next13": {
+          "broadcast_title": "TIM KOH / KOKONUT TRIP",
+          "start_timestamp": "2024-11-13T16:00:00Z",
+          "end_timestamp": "2024-11-13T17:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/tim-koh/episodes/tim-koh-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next14": {
+          "broadcast_title": "okokon",
+          "start_timestamp": "2024-11-13T17:00:00Z",
+          "end_timestamp": "2024-11-13T18:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/guests/episodes/okokon-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next15": {
+          "broadcast_title": "ML Buch",
+          "start_timestamp": "2024-11-13T18:00:00Z",
+          "end_timestamp": "2024-11-13T19:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/guests/episodes/ml-buch-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next16": {
+          "broadcast_title": "Otaku: Samurai Champloo",
+          "start_timestamp": "2024-11-13T19:00:00Z",
+          "end_timestamp": "2024-11-13T20:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/otaku/episodes/otaku-samurai-champloo-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        },
+        "next17": {
+          "broadcast_title": "THE WINDMILLS OF YOUR MIND w/ Taylor Rowley",
+          "start_timestamp": "2024-11-13T20:00:00Z",
+          "end_timestamp": "2024-11-13T21:00:00Z",
+          "embeds": {},
+          "links": [
+            {
+              "href": "https://www.nts.live/api/v2/shows/the-windmills-of-your-mind/episodes/the-windmills-of-your-mind-13th-november-2024",
+              "rel": "details",
+              "type": "application/vnd.episode+json;charset=utf-8"
+            }
+          ]
+        }
+      }
+    ],
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://www.nts.live/api/v2/live",
+        "type": "application/vnd.live-list+json;charset=utf-8"
+      }
+    ]
+  }
