@@ -10,7 +10,7 @@ A simple web interface that displays the current and upcoming shows on [NTS](htt
 - Responsive design
 
 
-![Screenshot](screenshot.png)
+![Screenshot](nts-now-playing-screenshot.png)
 
 ## Usage
 
