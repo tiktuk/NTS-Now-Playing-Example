@@ -9,6 +9,9 @@ A simple web interface that displays the current and upcoming shows on [NTS](htt
 - Indicates replay shows with a badge
 - Responsive design
 
+
+![Screenshot](screenshot.png)
+
 ## Usage
 
 Simply open `nts-live-now-playing.html` in a web browser. The page will automatically fetch and display the current shows from NTS Radio's API.
