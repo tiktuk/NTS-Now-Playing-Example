@@ -14,7 +14,7 @@ A simple web interface that displays the current and upcoming shows on [NTS](htt
 
 ## Usage
 
-Simply open `nts-live-now-playing.html` in a web browser. The page will automatically fetch and display the current shows from NTS Radio's API.
+Simply open `nts-now-playing.html` in a web browser. The page will automatically fetch and display the current shows from NTS Radio's API.
 
 ## API Example
 
